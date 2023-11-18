@@ -1,8 +1,17 @@
 <div style= "background-color :lightblue">
+<style>
+  
+  a {
+    display: inline;
+    margin-right: 20px;
+  }
+</style>
 
 <h2>MENU DO SITE</h2>
-<a href= "index.php"> inicio <a> <br>
-<a href= "?pg=quemsomos">Quem Somos  <a> <br>
-<a href= "?pg=clientes"> Clintes <a> <br>
-<a href= "?pg=faleconosco">Fale Conosco <a> <br>
+<div class="left">
+<a href= "index.php"> inicio </a>      
+<a href= "?pg=quemsomos">Quem Somos  </a>   
+<a href= "?pg=clientes"> Clintes </a>   
+<a href= "?pg=faleconosco">Fale Conosco </a> 
+<a href= "?pg=teste">teste </a>
 </div>
