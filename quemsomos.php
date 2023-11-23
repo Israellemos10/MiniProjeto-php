@@ -5,9 +5,9 @@
   font-size: 18px;
  }
         </style>
-
+/* fiz alteraçao no texto */
     <div class="large-text">
-    <p> Estamos aqui para lhe orientar no seu dia a dia, com dicas de bem estar e saúde</p>
+    <p> Estamos aqui para orientá-lo no seu dia a dia, com dicas de bem-estar e saúde.</p>
     </div>
 
    
