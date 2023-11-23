@@ -1,6 +1,6 @@
 <div style = "background: "lightwhitw"
 
-    <H2>CONTEUDO DO SITE</H2>
+    <center><p>CONTEUDO DO SITE<P> <center>
   
 
 </div>
